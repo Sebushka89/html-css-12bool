@@ -12,6 +12,7 @@ body {
     height: 200px;
     padding: 10px;
     text-align: center;
+    line-height: 200px;
 }
 
 [class*="col"] > .row > [class*="col"] 

@@ -10,8 +10,8 @@ body {
     background: pink;
     border: 1px black solid;
     height: 200px;
-    text-align: center;
     padding: 10px;
+    text-align: center;
 }
 
 [class*="col"] > .row > [class*="col"] 

@@ -4,6 +4,7 @@ body {
 
 .row {
     height: 100%;
+    width: 100%;
 }
 
 [class*="col"] {
@@ -11,8 +12,10 @@ body {
     border: 1px black solid;
     height: 200px;
     padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
-    line-height: 200px;
 }
 
 [class*="col"] > .row > [class*="col"] 

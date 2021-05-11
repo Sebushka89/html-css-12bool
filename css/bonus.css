@@ -1,0 +1,28 @@
+
+.row {
+    height: 100%;
+    width: 100%;
+}
+
+[class*="col"] {
+    height: 90px;
+}
+
+
+.black{ 
+    background-color: black;
+}
+
+.red{
+    background-color: red;
+}
+.brown{
+    background-color: brown;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    background-color: blue;
+}
